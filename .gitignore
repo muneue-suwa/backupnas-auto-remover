@@ -1,0 +1,11 @@
+# Virtual Environment
+.env/
+
+# Python cache
+__pycache__/
+
+# Settings file
+server_settings.py
+
+# Log files
+log/
